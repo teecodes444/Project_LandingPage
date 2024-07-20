@@ -5,6 +5,10 @@ body{
     background-color: #1F2937;
 }
 
+#logoText{
+    color: #F9FAF8;
+    font-size: 24px;
+}
 
 .quote{
     background-color: #E5E7EB;;

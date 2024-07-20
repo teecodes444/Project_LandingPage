@@ -1,3 +1,6 @@
+body{
+    margin: 0px auto;
+}
 .hero{
     background-color: #1F2937;
 }
@@ -15,3 +18,7 @@ background-color: #3882F6;;
 .footer{
     background-color: #1F2937;
 }
+
+/* .btn{
+    border-radius: 6px;
+} */

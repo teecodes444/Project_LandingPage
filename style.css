@@ -4,6 +4,7 @@ body{
     flex-direction: column;
     /* stretches header/footer to end of page  */
 }
+
 .hero{
     background-color: #1F2937;
 }
@@ -11,6 +12,10 @@ body{
 #logoText{
     color: #F9FAF8;
     font-size: 24px;
+}
+
+ul{
+    list-style-type: none;
 }
 
 #mainText{
@@ -53,8 +58,7 @@ body{
 }
 
 .action{
-background-color: #3882F6;;
-
+background-color: #3882F6;
 }
 
 #actionTextMain{

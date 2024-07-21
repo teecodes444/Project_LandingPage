@@ -12,7 +12,15 @@ body{
 .heroHeader{
     display: flex;
     justify-content: space-between;
-    
+
+}
+
+.heroLinks{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    gap: 16px;
+    /* creates space between links  */
 }
 
 #logoText{

@@ -33,18 +33,34 @@ ul{
     list-style-type: none;
 }
 
+.heroContent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 #mainText{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bolder;
 }
 
-.heroContent{
-    display: flex;
+.secondaryText{
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.awesome{
+    background-color: pink;
+    flex: 1 1 0px;
+    /* shorthand to allow both items to share space equally  */
 }
 
 #img{
     color: #E5E7EB;
+    background: gray;
+    flex: 1 1 0px;
+    /* shorthand to allow both items to share space equally  */
 }
 
 #infoHeaderText{
@@ -58,10 +74,7 @@ ul{
     font-size: 18px;  
 }
 
-.secondaryText{
-    color: #E5E7EB;
-    font-size: 18px;
-}
+
 
 
 .quote{

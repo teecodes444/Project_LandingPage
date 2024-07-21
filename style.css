@@ -12,7 +12,8 @@ body{
 .heroHeader{
     display: flex;
     justify-content: space-between;
-
+    align-items: center;
+    /* aligns logo and links to center in heroHeader div  */
 }
 
 .heroLinks{

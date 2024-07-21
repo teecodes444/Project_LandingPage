@@ -113,7 +113,7 @@ border-radius: 7px;
 #actionTextSecondary{
     color: #E5E7EB;
     font-size: 18px;
-    margin: 0px;
+    margin: 0px auto;
 }
 
 .footer{

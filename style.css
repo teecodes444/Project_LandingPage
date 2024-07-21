@@ -1,5 +1,8 @@
 body{
     margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    /* stretches header/footer to end of page  */
 }
 .hero{
     background-color: #1F2937;

@@ -37,6 +37,18 @@ body{
     background-color: #E5E7EB;;
 }
 
+#quoteText{
+    font: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+#quoteTextTwo{
+    font: #1F2937;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
 .action{
 background-color: #3882F6;;
 

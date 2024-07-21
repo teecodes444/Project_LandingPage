@@ -71,6 +71,13 @@ background-color: #3882F6;;
     font-size: 12px;
 }
 
-/* .btn{
+.btn{
     border-radius: 6px;
-} */
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.btn.two{
+/* chaining selector two add additional style to the action button  */
+    border-color: #F9FAF8;
+}

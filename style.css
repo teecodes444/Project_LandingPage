@@ -43,6 +43,10 @@ ul{
     display: flex;
 }
 
+#img{
+    color: #E5E7EB;
+}
+
 #infoHeaderText{
     color: #1F2937;
     font-size: 36px;

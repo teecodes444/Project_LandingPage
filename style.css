@@ -39,6 +39,10 @@ ul{
     font-weight: bolder;
 }
 
+.heroContent{
+    display: flex;
+}
+
 #infoHeaderText{
     color: #1F2937;
     font-size: 36px;

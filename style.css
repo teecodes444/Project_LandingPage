@@ -54,6 +54,17 @@ background-color: #3882F6;;
 
 }
 
+#actionTextMain{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+#actionTextSecondary{
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
 .footer{
     background-color: #1F2937;
 }

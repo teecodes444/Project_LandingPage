@@ -38,6 +38,8 @@ ul{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 75px;
+    border: 2px solid;
 }
 
 #mainText{
@@ -97,7 +99,13 @@ ul{
 }
 
 
-
+/* .infoContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+} */
 
 .quote{
     background-color: #E5E7EB;
@@ -117,13 +125,13 @@ ul{
 }
 
 .action{
-background-color: #3882F6;
-margin: 75px;
-display: flex;
-justify-content: space-around;
-align-items: center;
-padding: 40px 40px;
-border-radius: 7px;
+    background-color: #3882F6;
+    margin: 75px 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 40px;
+    border-radius: 7px;
 }
 
 #actionTextMain{
@@ -152,9 +160,12 @@ border-radius: 7px;
     border-radius: 6px;
     background-color: #3882F6;
     color: #F9FAF8;
+    padding: 5px 25px;
 }
-
-.btn.two{
-/* chaining selector two add additional style to the action button  */
+/* 
+.btnTwo{
     border-color: #F9FAF8;
-}
+    padding: 5px 25px;
+    background-color: #3882F6;
+
+} */
